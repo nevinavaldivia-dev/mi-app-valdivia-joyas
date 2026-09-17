@@ -1,0 +1,6 @@
+{
+  "name": "Valdivia Joyas - Joyería Fina & Pedidos WhatsApp",
+  "description": "Exclusiva joyería fina en oro, plata 925 y piedras preciosas. Pagos Yape con código QR, Plin y transferencias, WhatsApp 959673107 y base de datos para inventario y clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
